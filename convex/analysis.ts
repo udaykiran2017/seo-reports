@@ -2,7 +2,7 @@
 
 import { internalAction, action } from "./_generated/server";
 import { v } from "convex/values";
-import { openai } from "@ai-sdk/openai";
+import { google } from "@ai-sdk/google";
 import { generateObject } from "ai";
 import { buildAnalysisPrompt, systemPrompt } from "@/prompts/gpt";
 import { seoReportSchema } from "@/lib/seo-schema";
@@ -62,7 +62,7 @@ export const runAnalysis = internalAction({
       console.log("Prompt saved for job:", args.jobId);
 
       const { object: seoReport } = await generateObject({
-        model: openai("gpt-4o"),
+        model: google("gemini-2.5-flash"),
         system: systemPrompt(),
         prompt: analysisPrompt,
         schema: seoReportSchema,
