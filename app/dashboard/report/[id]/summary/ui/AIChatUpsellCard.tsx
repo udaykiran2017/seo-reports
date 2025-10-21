@@ -14,7 +14,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 
-const AIChatUpsellCard = () => {
+export function AIChatUpsellCard() {
   return (
     <Card className="border-none shadow-2xl bg-gradient-to-br from-indigo-500/10 via-purple-500/8 to-pink-500/10 relative overflow-hidden group hover:shadow-indigo-500/20 transition-all duration-500">
       {/* Decorative elements */}
@@ -139,6 +139,4 @@ const AIChatUpsellCard = () => {
       </CardContent>
     </Card>
   );
-};
-
-export default AIChatUpsellCard;
+}
