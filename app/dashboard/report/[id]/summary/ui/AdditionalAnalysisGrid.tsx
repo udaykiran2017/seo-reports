@@ -23,7 +23,9 @@ interface AdditionalAnalysisGridProps {
   seoReport: SeoReport;
 }
 
-const AdditionalAnalysisGrid = ({ seoReport }: AdditionalAnalysisGridProps) => {
+export function AdditionalAnalysisGrid({
+  seoReport,
+}: AdditionalAnalysisGridProps) {
   const contentThemes = (seoReport?.content_analysis?.content_themes || [])
     .map((t) => ({ theme: t.theme, frequency: t.frequency }))
     .filter(
@@ -293,6 +295,4 @@ const AdditionalAnalysisGrid = ({ seoReport }: AdditionalAnalysisGridProps) => {
       </Card>
     </div>
   );
-};
-
-export default AdditionalAnalysisGrid;
+}
